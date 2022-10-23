@@ -1,0 +1,43 @@
+body 
+{
+    font-size: 50px;
+}
+
+div
+{
+    padding: 20px;
+}
+
+#container
+{
+    background-color: teal;
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#app-name
+{
+    background-color: coral;
+    border-radius: 20px;
+}
+
+#monitors
+{
+    font-size: larger;
+}
+
+button
+{
+    font-size: 1.5rem;
+    border-radius: 20px;
+    width: 150px;
+    border: 0px;
+    padding: 5px;
+}
+
+button:hover
+{
+    background-color: coral;
+}
